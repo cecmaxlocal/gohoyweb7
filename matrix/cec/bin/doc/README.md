@@ -1,6 +1,6 @@
 Of course. Here is a professionally formatted `README.md` file based on your specifications. It incorporates all the keywords and the requested directory structure.
 
-<img src="../image/logon.jpeg">
+<img src="../image/logon.jpg">
 
 ---
 
